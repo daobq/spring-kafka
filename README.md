@@ -25,4 +25,3 @@
 - Listing topic in the cluster:
   ./kafka-topics.sh --bootstrap-server localhost:9092 --list
 
--
